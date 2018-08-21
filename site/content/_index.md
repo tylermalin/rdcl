@@ -27,7 +27,6 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-  - {}
 values:
   heading: Our values
   text: >-
